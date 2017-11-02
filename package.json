@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BitLox/CordovaClipboard.git"
+    "url": "https://github.com/BitLox/CordovaClipboard.git"
   },
   "keywords": [
     "cordova",
